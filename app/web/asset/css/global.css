@@ -1,0 +1,16 @@
+@import "./normalize.css";
+@import "./bootstrap.css";
+@import "./app.css";
+.page-component div .content{
+  position: absolute;
+  overflow-x: auto;
+  overflow-y: auto;
+  bottom: 30px;
+  top: 90px;
+  right:0;
+  left:0px;
+  margin-left:332px;
+}
+body{
+  background-color: #eee;
+}
